@@ -1,0 +1,6 @@
+{
+  "name": "Retion.vn - Cỗ máy chốt đơn tự động",
+  "description": "Nền tảng chatbot AI tự động hóa bán hàng với Instant Demo. Giải phóng sức lao động, x10 dòng tiền.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
